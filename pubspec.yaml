@@ -49,11 +49,9 @@ dependencies:
   flutter_bloc: ^7.0.1
 
   # Images
-  flutter_svg: ^0.22.0
   cached_network_image: ^3.0.0
   path_provider: ^2.0.2
   shared_preferences: ^2.0.11
-  hoverover: ^0.1.1
   connectivity_plus: ^2.2.0
   device_info: ^2.0.2
   get_it: any

@@ -18,7 +18,7 @@ class ExceptionHandler implements Exception {
 
     if (error is DioError) {
       _handleDioError(error);
-      _dioError = error; // 
+      _dioError = error; //
     }
 
     _exception = error;
