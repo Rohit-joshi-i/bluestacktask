@@ -79,7 +79,7 @@ class App extends StatelessWidget {
       child: MaterialApp(
         home: FlavorBanner(
             showBanner: kDebugMode,
-            child: !loggedInStatus ? HomePage() : LoginPage()),
+            child: loggedInStatus ? HomePage() : LoginPage()),
         debugShowCheckedModeBanner: false,
         navigatorKey: locator<NavigationService>().navigatorKey,
         onGenerateRoute: RouteGenerator.generateRoute,
