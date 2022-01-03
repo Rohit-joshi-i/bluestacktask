@@ -1,0 +1,20 @@
+{
+  "username" : "ユーザー名",
+  "password": "パスワード",
+  "enterYourUsername": "ユーザー名を入力して下さい",
+  "enterYourPassword": "パスワードを入力してください",
+  "username3char": "ユーザー名の長さは3より大きくなければなりません。",
+  "username11char": "ユーザー名の長さは11未満である必要があります。",
+  "password3char": "パスワードの長さは3より大きくする必要があります。",
+  "password11char": "パスワードの長さは3未満である必要があります。",
+  "incorrectPass": "パスワードまたはユーザー名が正しくありません。",
+  "recommendedForYou": "あなたにおすすめ",
+  "tryAgain": "再試行",
+  "somethingWentWrong": "何かが間違っていました。もう一度やり直してください。",
+  "nothingHere": "ここには何もありませんアプリをチェックしてください",
+  "eloRating": "イロレーティング",
+  "winningPercentage": "勝率",
+  "tournamentsWon": "トーナメント優勝",
+  "tournamentsPlayed": "トーナメントが行われました",
+  "submit": "送信"
+}

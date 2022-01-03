@@ -1,0 +1,20 @@
+{
+  "username" : "Username",
+  "password": "Password",
+  "enterYourUsername": "Enter your username",
+  "enterYourPassword": "Enter your password",
+  "username3char": "Username length must be equal to greater than 3.",
+  "username11char": "Username length must be equal to smaller than 11.",
+  "password3char": "Password length must be equal to greater than 3.",
+  "password11char": "Password length must be equal to smaller than 3.",
+  "incorrectPass": "Your password or username is Incorrect.",
+  "recommendedForYou": "Recommended for you",
+  "tryAgain": "Try again",
+  "somethingWentWrong": "Something went wrong please try again.",
+  "nothingHere": "Nothing here please check the app",
+  "eloRating": "Elo Rating",
+  "winningPercentage": "Winning percentage",
+  "tournamentsWon": "Tournaments won",
+  "tournamentsPlayed": "Tournaments played",
+  "submit": "Submit"
+}
